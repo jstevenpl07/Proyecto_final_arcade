@@ -8,7 +8,8 @@ Este es el proyecto final donde tenemos que hacer unn codigo de una maquina trag
 - Usar matrices
 - Usar productos
 - Usar Cadenas
-
+## Links utilizados
+-[Presentación](https://www.canva.com/design/DAHJg7n-brU/4pBLg4olbaDhMdQy0H3PDg/edit?ui=e30)
 ## El equipo esta compuesto por tres personas:
 - **John Steven Pinzon**
 - **Nicolas Toro**
