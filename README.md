@@ -11,6 +11,7 @@ Este es el proyecto final donde tenemos que hacer unn codigo de una maquina trag
 ## Links utilizados
 -[Presentación](https://www.canva.com/design/DAHJg7n-brU/4pBLg4olbaDhMdQy0H3PDg/edit?ui=e30)
 -[Logica Tragamonedas](https://en.wikipedia.org/wiki/Slot_machine)
+-[AsciiArt](https://www.asciiart.eu/search?q=casino)
 
 ## El equipo esta compuesto por tres personas:
 - **John Steven Pinzon**
