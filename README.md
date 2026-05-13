@@ -1,6 +1,6 @@
 # Proyecto_final_arcade
 
-Este es el proyecto final donde tenemos que hacer unn codigo de una maquina tragamonedas, usando las matrices, el ascii art, la lectura de datos, y csv.
+En este proyecto vamos a realizar una maquina tragamonedas de un casino, usando y persistiendo con los archivos CSV, en el cual daremos de forma interactiva un menu y un cargador de saldos, una matriz 3x3 con un arreglo definido, un easter egg, y una logica de premios en donde se veria reflejada al ganar en nuestro saldo.
 
 ## **Pasos para mostrar el uso del codigo**
 - Leer el archivo csv
